@@ -1,0 +1,22 @@
+{
+  "name": "naveenautomationlabs",
+  "version": "1.0.0",
+  "description": "Automation site with cypress JS and POM",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ingrithsantamaria/naveenautomationlabs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ingrithsantamaria/naveenautomationlabs/issues"
+  },
+  "homepage": "https://github.com/ingrithsantamaria/naveenautomationlabs#readme",
+  "devDependencies": {
+    "cypress": "^13.7.2"
+  }
+}

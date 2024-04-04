@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ingrithsantamaria/naveenautomationlabs#readme",
   "devDependencies": {
+    "@faker-js/faker": "^8.4.1",
     "cypress": "^13.7.2"
   }
 }

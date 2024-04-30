@@ -5,9 +5,6 @@ describe('Should sign in', () => {
     cy.visit('/login')
   });
   it('User created a new customer', () => {
-    login.LoginFromLogin()
-    login.searchByWord()
-    login.validateSearchResults()
-    login.logout()
+    cy.login()
   })
 })
